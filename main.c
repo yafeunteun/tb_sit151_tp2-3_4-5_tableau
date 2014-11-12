@@ -1,3 +1,15 @@
+/**
+ * \file main.c
+ * \brief Programme de tests.
+ * \author Yann Feunteun
+ * \version 0.1
+ * \date 19 Septembre 2014
+ *
+ * Programme de test pour l'objet de gestion des informations avec tableau.
+ *
+ */
+
+
 #include <stdio.h>
 #include <stdio.h>
 #include <stdlib.h>

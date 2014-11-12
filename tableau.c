@@ -1,3 +1,13 @@
+/**
+ * \file tableau.c
+ * \brief Fonctions permettant de manipuler un tableau représentant un index des mots d'un texte
+ * ainsi que leur fréquence dans ce dernier.
+ * \author Yann Feunteun
+ * \version 0.1
+ * \date 19 Septembre 2014
+ *
+ */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
